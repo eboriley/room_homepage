@@ -13,13 +13,13 @@ const _heading = document.querySelectorAll(".heading");
 const _message = document.querySelectorAll(".message");
 
 
-const images = ['../dist/images/mobile-image-hero-1.jpg',
-    '../dist/images/mobile-image-hero-2.jpg',
-    '../dist/images/mobile-image-hero-3.jpg']
+const images = ['./images/mobile-image-hero-1.jpg',
+    './images/mobile-image-hero-2.jpg',
+    './images/mobile-image-hero-3.jpg']
 
-const images_d = ['../dist/images/desktop-image-hero-1.jpg',
-    '../dist/images/desktop-image-hero-2.jpg',
-    '../dist/images/desktop-image-hero-3.jpg']
+const images_d = ['./images/desktop-image-hero-1.jpg',
+    './images/desktop-image-hero-2.jpg',
+    './images/desktop-image-hero-3.jpg']
 
 
 const infos = [
